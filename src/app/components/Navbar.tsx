@@ -4,7 +4,7 @@ import { FaUser } from "react-icons/fa";
 
 export const Navbar: React.FC = () => {
   return (
-    <nav className="flex items-center justify-between p-4 frombg shadow-md">
+    <nav className="flex items-center justify-between p-4 shadow-md">
       <h2 className=" text-lg font-bold">Logo</h2>
       <ul className=" flex gap-x-4 *:text-md *:text-gray-700 *:hover:underline *:hover:underline-offset-4">
         <li><a href="#">Inicio</a></li>
